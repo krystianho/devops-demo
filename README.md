@@ -1,2 +1,3 @@
 # devops-demo
-az devops playground
+devops playground
+* azure
